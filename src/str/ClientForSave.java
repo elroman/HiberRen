@@ -10,6 +10,9 @@ public class ClientForSave {
  
     public static void main(String[] args)
     {
+        // test commit 2
+        // test commit 2
+
         Configuration configuration = new Configuration();
         configuration.configure("hibernate.cfg.xml");
 
