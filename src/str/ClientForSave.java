@@ -1,17 +1,17 @@
+package str;
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.service.*;
 
-
-
 public class ClientForSave {
  
     public static void main(String[] args)
     {
         // test commit 2
-        // test commit 2
+        // test commit 3
 
         Configuration configuration = new Configuration();
         configuration.configure("hibernate.cfg.xml");

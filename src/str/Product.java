@@ -1,3 +1,5 @@
+package str;
+
 public class Product{
 
 	private int productId;
